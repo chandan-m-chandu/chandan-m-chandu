@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chandan</h1>
 <h3 align="center">A passionate VLSI- Engineering Student</h3>
 
-- 🌱 I’m currently learning **Cadence Virtuoso, System Verilog, and Tanner tools**
+- 🌱 I’m currently exploring **Digital Design** and learning **Cadence design suite, System Verilog, and Tanner tools**
 
 - 📫 How to reach me **chandanmchandum2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v4ZOCcNP8VLuYRmTP7f9HhB_tAcsGI_-/view?usp=sharing](https://drive.google.com/file/d/1v4ZOCcNP8VLuYRmTP7f9HhB_tAcsGI_-/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1JUmDYI7H3Mx8x2A2ydqGExlKhIxaD17w/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
