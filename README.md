@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandan</h1>
-<h3 align="center">A passionate Engineering Student(interested in VLSI) </h3>
+<h3 align="center">Student specializing in VLSI </h3>
 
 - 🌱 I’m currently exploring **Digital Design** and learning **Cadence design suite, System Verilog, and Tanner tools**
 
