@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chandan</h1>
 <h3 align="center">Student specializing in VLSI </h3>
 
-Final year ECE student at PES University. My aademic achivements include having a good fundations, with **CGPA of 8.16**. I secured **GATE AIR rank 5105**. As a senior student, I serve as student head at [SILICON](https://www.linkedin.com/company/100910379). (VLSI student body under Dept. of ECE, PES University).  
+Final year ECE student at PES University. My aademic achivements include having a good fundations, with **CGPA of 8.16**. As a senior student, I serve as student head at [SILICON](https://www.linkedin.com/company/100910379). (VLSI student body under Dept. of ECE, PES University).  
 
 -  My expertise include ability to draft a RTL design, perform verification using layered testbench, synthesis for FPGA/ASIC. Having exposure to RTL-to-GDSII, I'm exploring Physical design.
-
--  I have authored a research paper titled "Ratioed NAND and NOR based On-Chip process sensors".
 
 -  My projects include; 
 -         -> Implementing AXI4-Lite for RISC-V and memory (Design & Verification).
