@@ -1,7 +1,7 @@
 <h1 align="center">CHANDAN M</h1>
 <p align="center">
 +91 8105545815 &nbsp; | &nbsp;
-chandanmchandum2@gmail.com &nbsp; | &nbsp;
+<a href="mailto:chandanmchandum2@gmail.com">chandanmchandum2@gmail.com</a> &nbsp; | &nbsp;
 <a href="https://www.linkedin.com/in/chandan-m-092613243/">LinkedIn</a>
 </p>
 
