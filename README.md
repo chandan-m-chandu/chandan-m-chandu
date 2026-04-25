@@ -111,7 +111,7 @@
 
 <td align="center" width="33%">
 <a href="https://github.com/chandan-m-chandu/AXI_lite_protocol">
-<img src="https://private-user-images.githubusercontent.com/158311639/477495827-ebed9cd0-39a8-4f49-8efa-8da8529469ed.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY1MzY0NTIsIm5iZiI6MTc3NjUzNjE1MiwicGF0aCI6Ii8xNTgzMTE2MzkvNDc3NDk1ODI3LWViZWQ5Y2QwLTM5YTgtNGY0OS04ZWZhLThkYTg1Mjk0NjllZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQxOFQxODE1NTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMTY0ODE2MTBjNDNmMDQ4NWI1ZWJiZWU2ZGE5ZTY3ZTgzMDc4ZDBhNThjNjYyMWIyNDA4Mjk1ODhjZmQ2NTQyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.251T9r_HyMdOd7OL_SPXtK7sScrdvcjWIQSYk2z6iPE" width="100%"/>
+<img src="https://github.com/user-attachments/assets/c5e9744e-c5ed-4be1-bb71-8d7999ec6c36" width="100%"/>
 </a>
 <b>AXI4-Lite Design & Verification</b><br>
 <sub>Protocol design and validation</sub>
